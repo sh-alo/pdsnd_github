@@ -4,14 +4,18 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+project git and github
 
 ### Description
-Describe what your project is about and what it does
+my project how use git and command
 
 ### Files used
-Include the files used
+readme.file
+bikeshare_2.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/sh-alo/Data_science_nanodegree
 
