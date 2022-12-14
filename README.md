@@ -3,13 +3,17 @@
 ### Date created
 Include the date you created this project and README file.
 
+
 ### Project Title
 Replace the Project Title
+git and gothub
 
 ### Description
+command for master branch
 Describe what your project is about and what it does
 
 ### Files used
+all
 include the file used
 
 ### Credits
