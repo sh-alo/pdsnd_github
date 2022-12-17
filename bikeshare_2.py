@@ -116,8 +116,11 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-
-
+def GPA():
+    print(" this edit for project git")
+def pd():
+    print("this 2 edit for project git")
+    print("this 3 edit for project git")
 def main():
     while True:
         city, month, day = get_filters()
