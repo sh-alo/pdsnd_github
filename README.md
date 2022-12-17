@@ -11,7 +11,7 @@ git and github
 ### Description
 project about version control 
 post my work in github and learn how to save annd share
-my project with others.and how use python 
+my project with others.and how use python with numbey
 
 ### Files used
 chicago.csv
